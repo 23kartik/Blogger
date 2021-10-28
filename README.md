@@ -1,11 +1,8 @@
 # Blogger
-A platform where users can view and track the information of World's Top Cryptocurrencies.
+A front-end application based on idea of tours and travels.
 <br>
-Information such as Current Price, % Change, Market Cap and Total Volume.
+User can explore various destination for various occasions.
 <br>
-The information is updated each second so that user can see changes in Real Time (if any).
-<br>
-Visit the Website : https://crypto-app-assassin1771.netlify.app/
 <!-- 
 Project Status
 (only necessary if incomplete)
@@ -13,7 +10,17 @@ Project Status
 Example:
 This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress. -->
 
-<img src="SS/Screenshot (376).png">
+<img src="Screenshot 2021-10-28 at 9.17.19 PM.png">
+<br>
+<img src="Screenshot 2021-10-28 at 9.17.29 PM.png">
+<br>
+<img src="Screenshot 2021-10-28 at 9.17.36 PM.png">
+<br>
+<img src="Screenshot 2021-10-28 at 9.17.41 PM.png">
+<br>
+<img src="Screenshot 2021-10-28 at 9.17.48 PM.png">
+<br>
+<img src="Screenshot 2021-10-28 at 9.17.52 PM.png">
 <br>
 <br>
 <br>
@@ -30,13 +37,9 @@ To Run Test Suite:
 <br>
 npm test
 
-To Start Server:
-<br>
-npm start
-
 To Visit App:
 <br>
-http://localhost:3000
+Run live server at index.html 
 <br>
 <br>
 <br>
